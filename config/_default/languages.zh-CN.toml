@@ -9,14 +9,14 @@ title = "摇月的魔法工坊"
   isoCode = "zh-CN"
   rtl = false
   dateFormat = "Jan 2 15:04 MST 2006"
-  # logo = "homepage/tx1.png"
+  logo = "homepage/title.svg"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "摇月的魔法工坊"
+  copyright = "© 2026 Anslate&摇月"
 
  [params.author]
    name = "摇月"
-   email = "Yuzuki@YuzukiAtelier.com"
+   email = "Anslate2020@outlook.com"
    image = "homepage/head.webp"
    imageQuality = 6
    headline = "二十一世纪的赛博魔法师"

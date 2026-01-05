@@ -1,0 +1,13 @@
+/* 专门针对 SVG 类型的 Logo 调整大小 */
+.main-menu .logo {
+    height: 2rem;      /* 这里控制高度，比如 2rem 或 30px */
+    max-height: 2rem;  /* 限制最大高度 */
+    width: auto;       /* 宽度自动，保持比例 */
+    display: flex;     /* 确保容器正确包裹 SVG */
+    align-items: center;
+}
+
+.main-menu .logo svg {
+    height: 130%;      /* 让 SVG 跟随容器高度 */
+    width: auto;       /* 保持比例 */
+}

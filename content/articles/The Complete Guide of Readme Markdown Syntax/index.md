@@ -2,6 +2,7 @@
 title = "Markdown基本语法"
 summary = "介绍了许多Markdown的基本语法，当然也可以用来测试显示效果"
 date = 2026-01-05T15:30:00+08:00
+tags = ['Markdown', '教程']
 
 showAuthor = false
 heroStyle = "Background"

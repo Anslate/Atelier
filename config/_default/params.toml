@@ -74,7 +74,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  #showBreadcrumbs = false
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -87,7 +87,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
+  showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
   showWordCount = true
@@ -100,7 +100,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   heroStyle = "Background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showSummary = true
   showViews = false
   showLikes = false
@@ -111,6 +111,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
+  
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
