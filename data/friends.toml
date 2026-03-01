@@ -9,3 +9,8 @@ name = "困"
 avatar = "https://avatars.githubusercontent.com/u/119118549?v=4"
 desc = "人类好困的小破博客"
 url = "https://blog.haokun.me"
+[[list]]
+name = "Dmitry Grinberg"
+avatar = "https://dmitry.gr/images/Me.jpg"
+desc = "博主的偶像之一"
+url = "https://dmitry.gr"
