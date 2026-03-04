@@ -14,6 +14,16 @@
   name = "文章"
   pageRef = "articles"
   weight = 10
+  
+ [[main]]
+  name = "文档"
+  weight = 5
+
+ [[main]]
+  name = "CH32V00x软件文档"
+  parent = "文档"
+  pageRef = "ch32v003_doc"
+  weight = 1
 
 [[main]]
   name = "友链"
