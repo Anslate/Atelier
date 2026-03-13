@@ -3,6 +3,8 @@ title = "OpenClaw大行其道，我来唱唱反调"
 summary = "现在 OpenClaw 的环境就是猴子开车"
 date = 2026-03-07T14:39:15+08:00
 tags = ['AI', '碎碎念']
+series = ["OpenClaw大行其道，我来唱唱反调"]
+series_order = 1
 +++
 
 {{< katex >}}  
