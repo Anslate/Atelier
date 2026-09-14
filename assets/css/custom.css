@@ -11,3 +11,10 @@
     height: 130%;      /* 让 SVG 跟随容器高度 */
     width: auto;       /* 保持比例 */
 }
+
+/* 文章段落首行缩进两字符 + 段落间距 */
+.prose p {
+    text-indent: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
