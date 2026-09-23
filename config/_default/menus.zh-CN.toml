@@ -26,6 +26,11 @@
   weight = 1
 
 [[main]]
+  name = "短评"
+  pageRef = "reviews"
+  weight = 15
+
+[[main]]
   name = "友链"
   pageRef = "friends"
   weight = 20
