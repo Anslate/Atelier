@@ -6,7 +6,7 @@
 	<span class="text-neutral-700 dark:text-neutral-300">{{ .Content }}</span>
   <div class="grid gap-4">
 
-    {{ range $.Site.Data.friends.list }}
+    {{ range hugo.Data.friends.list }}
 
       <a href="{{ .url }}">
         
